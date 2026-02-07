@@ -64,5 +64,6 @@ The optimal number of clusters was found to be *3*, and the clustering result wa
 
 
 ## Author
+Gowrishankar-123
 
-Machine Learning Mini Project
+
